@@ -18,38 +18,18 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css"> 
-footer a{
-color:  #878787!important;
-text-decoration: underline!important;
-}
-a{
-text-decoration: none!important;
-}
-.align-self-stretch{
-ms-flex-item-align: stretch!important;
-align-self: stretch!important;
-}
-footer ul{
-padding-left: 0px!important;
-list-style: none;
-}
-.d9b4327c5183bc6d972c416c1eb04e2b9{
-font-size:20.1px;
-padding:10.2px;
-color: black;
-}
-.btn-md{
-padding:14.9px 29.5px;
-border-radius: 0;
-}
 footer{
-padding-top:59.9px;
-padding-bottom:59.7px;
+padding-top:60.2px;
+padding-bottom:59.6px;
 }
-li a{
-color: #ff545d;
+ul{
+list-style: circle;
 }
-.x1aa819fdd8721355b37217ad7f26276b:hover{
+.w07eb370e29da73dc033a23f619020b43{
+background: rgba(0,0,0,0.6);
+text-align: center;
+}
+.wc0e2f6ef5b179e193f89d6970690cc01:hover{
 background-size: 100% 100%!important;
 color:#fecbcf!important;
 background:#ffffff!important;
@@ -57,67 +37,87 @@ background-repeat: no-repeat!important;
 background-position: 0 90%!important; 
 transition: background-size 0.2s ease-in!important;
 }
-.d9b4327c5183bc6d972c416c1eb04e2b9 i:hover{
+li a{
+color: #ff6069;
+}
+footer ul{
+padding-left: 0px!important;
+list-style: none;
+}
+.align-self-stretch{
+ms-flex-item-align: stretch!important;
+align-self: stretch!important;
+}
+.a2328bc993a54b36b91b01cef0d381584 i:hover{
 background: black;
-color:#ffdade;
+color:#ffdbdf;
 border-radius: 50%;
 width:10mm;
 text-align:center;
 height:10mm;
 }
-.b1a232fe6a02068e0d0ce3332f79a9727 *{
-color:white!important;
+.display-2{
+font-size: 45.3px;
 }
-.b1a232fe6a02068e0d0ce3332f79a9727{
-background: rgba(0,0,0,0.6);
-text-align: center;
+a{
+text-decoration: none!important;
 }
-.nav-link{
-color: #0c0c0c !important;
+.navbar a{
+font-size: 18.1px;
+}
+.a2328bc993a54b36b91b01cef0d381584{
+font-size:20.2px;
+padding:9.6px;
+color: black;
 }
 .nav-item{
-margin-top: 10.3px;
-margin-bottom: 9.7px;
-padding-left: 6.8px;
-padding-right: 7.1px;
+margin-top: 9.7px;
+margin-bottom: 10px;
+padding-left: 7.2px;
+padding-right: 7px;
 }
-.w1be1cd5926e999a6ac4c0a5cf0d55096{
+.x8ccb6b6d21f97add4a4315def872ecba{
+background-color:#fe5270!important;
+border-color:#fe5270!important;
+color:#ffffff!important;
+}
+.v3b670df36bcaf34d38b34585529e3f3f{
 text-decoration: underline!important;
+}
+footer *{
+font-size:19px!important;
+color:#7a7a7a!important;
+line-height: 1.5;
+}
+.w07eb370e29da73dc033a23f619020b43 *{
+color:white!important;
 }
 *{
 font-family: '', sans-serif;
 }
-footer *{
-font-size:19px!important;
-color:#878787!important;
-line-height: 1.5;
+.btn-md{
+padding:14.6px 29.8px;
+border-radius: 0;
 }
-.display-2{
-font-size: 44.9px;
+footer a{
+color:  #7a7a7a!important;
+text-decoration: underline!important;
 }
-.d9b4327c5183bc6d972c416c1eb04e2b9 i{
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #ac96ff,#ff555e);
+display: inline-block;
+}
+.a2328bc993a54b36b91b01cef0d381584 i{
 border-radius: 50%;
 width: 10mm;
 text-align: center;
 line-height: 37px;
 height: 10mm;
 }
-.underline .line{
-width: 5rem;
-height: 3px;
-background: linear-gradient(90deg, #b09aff,#ff565f);
-display: inline-block;
-}
-ul{
-list-style: circle;
-}
-.navbar a{
-font-size: 17.6px;
-}
-.c87288d4802a0286189e84d7eaf6568e0{
-background-color:#fe5270!important;
-border-color:#fe5270!important;
-color:#ffffff!important;
+.nav-link{
+color: #000000 !important;
 }
 </style>
 </head>
@@ -129,9 +129,9 @@ color:#ffffff!important;
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center navbar-nav">
-<li class="nav-item"><a class="x1aa819fdd8721355b37217ad7f26276b nav-link" href="index.html"  >1</a></li><li class="nav-item"><a class="x1aa819fdd8721355b37217ad7f26276b nav-link" href="2.html"  >2</a></li><li class="nav-item"><a class="nav-link x1aa819fdd8721355b37217ad7f26276b" href="3.html"  >3</a></li><li class="nav-item">
-<a class="nav-link x1aa819fdd8721355b37217ad7f26276b" href="about-us.html" rel="nofollow" >About Us</a></li>
+<ul class="ml-auto navbar-nav align-items-center">
+<li class="nav-item"><a class="nav-link wc0e2f6ef5b179e193f89d6970690cc01" href="index.html"  >1</a></li><li class="nav-item"><a class="nav-link wc0e2f6ef5b179e193f89d6970690cc01" href="hh.html"  >hh</a></li><li class="nav-item"><a class="wc0e2f6ef5b179e193f89d6970690cc01 nav-link" href="3.html"  >3</a></li><li class="nav-item">
+<a class="nav-link wc0e2f6ef5b179e193f89d6970690cc01" href="about-us.html" rel="nofollow" >About Us</a></li>
 </ul>
 </div>
 </nav>
@@ -201,12 +201,12 @@ This website is owned and published by:
 </div> 
 <footer>
 <div class="container">
-<div class="row align-center justify-content-center"> 
+<div class="row justify-content-center align-center"> 
 <div class="col-md-3">
 <ul>
-<li><a class="x1aa819fdd8721355b37217ad7f26276b" href="sitemap.html" rel="nofollow">Sitemap</a></li>
-<li><a class="x1aa819fdd8721355b37217ad7f26276b" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
-<li><a class="x1aa819fdd8721355b37217ad7f26276b" href="about-us.html" rel="nofollow">About Us</a></li>
+<li><a class="wc0e2f6ef5b179e193f89d6970690cc01" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="wc0e2f6ef5b179e193f89d6970690cc01" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+<li><a class="wc0e2f6ef5b179e193f89d6970690cc01" href="about-us.html" rel="nofollow">About Us</a></li>
 </ul></div></div></div>
 <hr>
 </div>
